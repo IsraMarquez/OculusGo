@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 967db074cd7cced4a8e889ed8ae7fe90
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Adorno_Piso
+    100002: Amarilla1
+    100004: Barandal
+    100006: Branding
+    100008: Escaleras
+    100010: Estante
+    100012: Estanteria
+    100014: Estructura
+    100016: //RootNode
+    100018: HbA
+    100020: HbA_Fondo
+    100022: Medicina
+    100024: MedicinaSoliqua
+    100026: Mesa_Medicina
+    100028: Mesa_Show
+    100030: Paredes
+    100032: Piso
+    100034: Plataforma_Organos
+    100036: Props
+    100038: Sanofi
+    100040: Soliqua
+    100042: Techo_Circulo
+    100044: Techo_Lamp
+    100046: Techo_Orilla
+    100048: "TuboRi\xF1ones"
+    100050: V_Barandal
+    100052: Ventanas_
+    100054: Verde1
+    100056: Vidrios
+    400000: Adorno_Piso
+    400002: Amarilla1
+    400004: Barandal
+    400006: Branding
+    400008: Escaleras
+    400010: Estante
+    400012: Estanteria
+    400014: Estructura
+    400016: //RootNode
+    400018: HbA
+    400020: HbA_Fondo
+    400022: Medicina
+    400024: MedicinaSoliqua
+    400026: Mesa_Medicina
+    400028: Mesa_Show
+    400030: Paredes
+    400032: Piso
+    400034: Plataforma_Organos
+    400036: Props
+    400038: Sanofi
+    400040: Soliqua
+    400042: Techo_Circulo
+    400044: Techo_Lamp
+    400046: Techo_Orilla
+    400048: "TuboRi\xF1ones"
+    400050: V_Barandal
+    400052: Ventanas_
+    400054: Verde1
+    400056: Vidrios
+    2100000: MT_BlancoBrilloso
+    2100002: 'Material #5'
+    2100004: 'Material #28'
+    2100006: lambert6
+    2100008: MT_Caja
+    2100010: lambert1
+    2100012: pasted__TXT_Pluma
+    2100014: Emission
+    2100016: MT_Vidrios
+    2100018: MT_Info
+    2100020: 'Material #206'
+    2100022: lamparaSanofi
+    2300000: Adorno_Piso
+    2300002: Amarilla1
+    2300004: Barandal
+    2300006: Escaleras
+    2300008: Estanteria
+    2300010: HbA
+    2300012: HbA_Fondo
+    2300014: Medicina
+    2300016: MedicinaSoliqua
+    2300018: Mesa_Show
+    2300020: Paredes
+    2300022: Piso
+    2300024: Plataforma_Organos
+    2300026: Sanofi
+    2300028: Soliqua
+    2300030: Techo_Circulo
+    2300032: Techo_Lamp
+    2300034: Techo_Orilla
+    2300036: "TuboRi\xF1ones"
+    2300038: V_Barandal
+    2300040: Ventanas_
+    2300042: Verde1
+    3300000: Adorno_Piso
+    3300002: Amarilla1
+    3300004: Barandal
+    3300006: Escaleras
+    3300008: Estanteria
+    3300010: HbA
+    3300012: HbA_Fondo
+    3300014: Medicina
+    3300016: MedicinaSoliqua
+    3300018: Mesa_Show
+    3300020: Paredes
+    3300022: Piso
+    3300024: Plataforma_Organos
+    3300026: Sanofi
+    3300028: Soliqua
+    3300030: Techo_Circulo
+    3300032: Techo_Lamp
+    3300034: Techo_Orilla
+    3300036: "TuboRi\xF1ones"
+    3300038: V_Barandal
+    3300040: Ventanas_
+    3300042: Verde1
+    4300000: Plataforma_Organos
+    4300002: MedicinaSoliqua
+    4300004: Estanteria
+    4300006: Verde1
+    4300008: Amarilla1
+    4300010: Mesa_Show
+    4300012: Medicina
+    4300014: Adorno_Piso
+    4300016: "TuboRi\xF1ones"
+    4300018: Ventanas_
+    4300020: V_Barandal
+    4300022: Sanofi
+    4300024: HbA_Fondo
+    4300026: HbA
+    4300028: Soliqua
+    4300030: Paredes
+    4300032: Escaleras
+    4300034: Piso
+    4300036: Techo_Orilla
+    4300038: Techo_Circulo
+    4300040: Techo_Lamp
+    4300042: Barandal
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

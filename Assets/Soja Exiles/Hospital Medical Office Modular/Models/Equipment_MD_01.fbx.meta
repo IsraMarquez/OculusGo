@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: 7e01c3c130ef8a5409f3858bf9bf4236
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm Cushion
+    100002: Arm Cushion.001
+    100004: Bars
+    100006: BedPlate
+    100008: Buttons
+    100010: Buttons.001
+    100012: Buttons.002
+    100014: Chair_MD_02
+    100016: Circle.003
+    100018: Circle.004
+    100020: Computer.001
+    100022: Computer_MD_01
+    100024: //RootNode
+    100026: GateB_01
+    100028: GateHead
+    100030: GateL_01
+    100032: GateL_02
+    100034: GateR_01
+    100036: GateR_02
+    100038: HeadBar
+    100040: Int_Glass
+    100042: Int_MD_01_Wall_06
+    100044: Int_Window_01_01
+    100046: Keyboard_MD_01_01
+    100048: Lamp
+    100050: Lamp.001
+    100052: LampElbow_01
+    100054: LampElbow_01.001
+    100056: LampElbow_02
+    100058: LampElbow_02.001
+    100060: LampGlass
+    100062: LampGlass.001
+    100064: LampHandle
+    100066: LampHandle.001
+    100068: LampSwivel_01
+    100070: LampSwivel_01.001
+    100072: LampSwivel_02
+    100074: LampSwivel_02.001
+    100076: LampSwivel_03
+    100078: LampSwivel_03.001
+    100080: LampSwivel_04
+    100082: LampSwivel_04.001
+    100084: LeftBar_02
+    100086: Mat
+    100088: MedicalBed
+    100090: MedicalBed_MD_01
+    100092: MedicalBedBase
+    100094: MedicalBedBase.002
+    100096: MedicalBedBase.004
+    100098: MIR_Bed
+    100100: MIR_BedLift
+    100102: MIR_BedSlide
+    100104: Monitor
+    100106: Monitor.001
+    100108: Monitor_MD_01_01
+    100110: Monitor_MD_02_01
+    100112: Monitor_MD_03_01
+    100114: Mouse_MD_01_01
+    100116: MRI_BedBase
+    100118: MRI_Buttons
+    100120: MRI_Display
+    100122: MRI_MD_01
+    100124: MRI_Screen
+    100126: MRI_TransferBed
+    100128: MRI_Tube
+    100130: OperatingTable
+    100132: OperatingTable_ArmRest.L
+    100134: OperatingTable_ArmRest.R
+    100136: OperatingTable_Base
+    100138: OperatingTable_Cushion
+    100140: OperatingTable_MD_01
+    100142: OperatingTable_Pivot
+    100144: OperatingTable_TableBase
+    100146: OperationLamp_MD_01
+    100148: Pillow
+    100150: Plane.001
+    100152: Plane.002
+    100154: Plane.006
+    100156: Plane.009
+    100158: RightBar_02
+    100160: Screen.001
+    100162: Screen.002
+    100164: Strap
+    100166: Strap.001
+    100168: Stretcher Base
+    100170: Stretcher Guard_Base
+    100172: Stretcher Guard_L
+    100174: Stretcher Guard_R
+    100176: Stretcher Rail
+    100178: Stretcher_MD_01
+    100180: Support Bar.Mid
+    100182: Support Bar.R
+    100184: SupportBar.L
+    100186: TableWall_MD_01
+    100188: W_01
+    100190: W_02
+    100192: W_03
+    100194: W_04
+    100196: Wheel Pivot_01
+    100198: Wheel Pivot_02
+    100200: Wheel Pivot_03
+    100202: Wheel Pivot_04
+    100204: Wheel S Pivot_01
+    100206: Wheel S Pivot_02
+    100208: Wheel S Pivot_03
+    100210: Wheel S Pivot_04
+    100212: Wheel.003
+    100214: Wheel_01
+    100216: Wheel_02
+    100218: Wheel_03
+    100220: Wheel_04
+    100222: WheelTOP.L
+    100224: WheelTOP.R
+    400000: Arm Cushion
+    400002: Arm Cushion.001
+    400004: Bars
+    400006: BedPlate
+    400008: Buttons
+    400010: Buttons.001
+    400012: Buttons.002
+    400014: Chair_MD_02
+    400016: Circle.003
+    400018: Circle.004
+    400020: Computer.001
+    400022: Computer_MD_01
+    400024: //RootNode
+    400026: GateB_01
+    400028: GateHead
+    400030: GateL_01
+    400032: GateL_02
+    400034: GateR_01
+    400036: GateR_02
+    400038: HeadBar
+    400040: Int_Glass
+    400042: Int_MD_01_Wall_06
+    400044: Int_Window_01_01
+    400046: Keyboard_MD_01_01
+    400048: Lamp
+    400050: Lamp.001
+    400052: LampElbow_01
+    400054: LampElbow_01.001
+    400056: LampElbow_02
+    400058: LampElbow_02.001
+    400060: LampGlass
+    400062: LampGlass.001
+    400064: LampHandle
+    400066: LampHandle.001
+    400068: LampSwivel_01
+    400070: LampSwivel_01.001
+    400072: LampSwivel_02
+    400074: LampSwivel_02.001
+    400076: LampSwivel_03
+    400078: LampSwivel_03.001
+    400080: LampSwivel_04
+    400082: LampSwivel_04.001
+    400084: LeftBar_02
+    400086: Mat
+    400088: MedicalBed
+    400090: MedicalBed_MD_01
+    400092: MedicalBedBase
+    400094: MedicalBedBase.002
+    400096: MedicalBedBase.004
+    400098: MIR_Bed
+    400100: MIR_BedLift
+    400102: MIR_BedSlide
+    400104: Monitor
+    400106: Monitor.001
+    400108: Monitor_MD_01_01
+    400110: Monitor_MD_02_01
+    400112: Monitor_MD_03_01
+    400114: Mouse_MD_01_01
+    400116: MRI_BedBase
+    400118: MRI_Buttons
+    400120: MRI_Display
+    400122: MRI_MD_01
+    400124: MRI_Screen
+    400126: MRI_TransferBed
+    400128: MRI_Tube
+    400130: OperatingTable
+    400132: OperatingTable_ArmRest.L
+    400134: OperatingTable_ArmRest.R
+    400136: OperatingTable_Base
+    400138: OperatingTable_Cushion
+    400140: OperatingTable_MD_01
+    400142: OperatingTable_Pivot
+    400144: OperatingTable_TableBase
+    400146: OperationLamp_MD_01
+    400148: Pillow
+    400150: Plane.001
+    400152: Plane.002
+    400154: Plane.006
+    400156: Plane.009
+    400158: RightBar_02
+    400160: Screen.001
+    400162: Screen.002
+    400164: Strap
+    400166: Strap.001
+    400168: Stretcher Base
+    400170: Stretcher Guard_Base
+    400172: Stretcher Guard_L
+    400174: Stretcher Guard_R
+    400176: Stretcher Rail
+    400178: Stretcher_MD_01
+    400180: Support Bar.Mid
+    400182: Support Bar.R
+    400184: SupportBar.L
+    400186: TableWall_MD_01
+    400188: W_01
+    400190: W_02
+    400192: W_03
+    400194: W_04
+    400196: Wheel Pivot_01
+    400198: Wheel Pivot_02
+    400200: Wheel Pivot_03
+    400202: Wheel Pivot_04
+    400204: Wheel S Pivot_01
+    400206: Wheel S Pivot_02
+    400208: Wheel S Pivot_03
+    400210: Wheel S Pivot_04
+    400212: Wheel.003
+    400214: Wheel_01
+    400216: Wheel_02
+    400218: Wheel_03
+    400220: Wheel_04
+    400222: WheelTOP.L
+    400224: WheelTOP.R
+    2100000: No Name
+    2100002: Low
+    2100004: Material.001
+    2300000: Arm Cushion
+    2300002: Arm Cushion.001
+    2300004: Bars
+    2300006: BedPlate
+    2300008: Buttons
+    2300010: Buttons.001
+    2300012: Buttons.002
+    2300014: Chair_MD_02
+    2300016: Circle.003
+    2300018: Circle.004
+    2300020: Computer.001
+    2300022: Computer_MD_01
+    2300024: GateB_01
+    2300026: GateHead
+    2300028: GateL_01
+    2300030: GateL_02
+    2300032: GateR_01
+    2300034: GateR_02
+    2300036: HeadBar
+    2300038: Int_Glass
+    2300040: Int_MD_01_Wall_06
+    2300042: Int_Window_01_01
+    2300044: Keyboard_MD_01_01
+    2300046: Lamp
+    2300048: Lamp.001
+    2300050: LampElbow_01
+    2300052: LampElbow_01.001
+    2300054: LampElbow_02
+    2300056: LampElbow_02.001
+    2300058: LampGlass
+    2300060: LampGlass.001
+    2300062: LampHandle
+    2300064: LampHandle.001
+    2300066: LampSwivel_01
+    2300068: LampSwivel_01.001
+    2300070: LampSwivel_02
+    2300072: LampSwivel_02.001
+    2300074: LampSwivel_03
+    2300076: LampSwivel_03.001
+    2300078: LampSwivel_04
+    2300080: LampSwivel_04.001
+    2300082: LeftBar_02
+    2300084: Mat
+    2300086: MedicalBed
+    2300088: MedicalBed_MD_01
+    2300090: MedicalBedBase
+    2300092: MedicalBedBase.002
+    2300094: MedicalBedBase.004
+    2300096: MIR_Bed
+    2300098: MIR_BedLift
+    2300100: MIR_BedSlide
+    2300102: Monitor
+    2300104: Monitor.001
+    2300106: Monitor_MD_01_01
+    2300108: Monitor_MD_02_01
+    2300110: Monitor_MD_03_01
+    2300112: Mouse_MD_01_01
+    2300114: MRI_BedBase
+    2300116: MRI_Buttons
+    2300118: MRI_Display
+    2300120: MRI_MD_01
+    2300122: MRI_Screen
+    2300124: MRI_TransferBed
+    2300126: MRI_Tube
+    2300128: OperatingTable
+    2300130: OperatingTable_ArmRest.L
+    2300132: OperatingTable_ArmRest.R
+    2300134: OperatingTable_Base
+    2300136: OperatingTable_Cushion
+    2300138: OperatingTable_MD_01
+    2300140: OperatingTable_Pivot
+    2300142: OperatingTable_TableBase
+    2300144: OperationLamp_MD_01
+    2300146: Pillow
+    2300148: Plane.001
+    2300150: Plane.002
+    2300152: Plane.006
+    2300154: Plane.009
+    2300156: RightBar_02
+    2300158: Screen.001
+    2300160: Screen.002
+    2300162: Strap
+    2300164: Strap.001
+    2300166: Stretcher Base
+    2300168: Stretcher Guard_Base
+    2300170: Stretcher Guard_L
+    2300172: Stretcher Guard_R
+    2300174: Stretcher Rail
+    2300176: Stretcher_MD_01
+    2300178: Support Bar.Mid
+    2300180: Support Bar.R
+    2300182: SupportBar.L
+    2300184: TableWall_MD_01
+    2300186: W_01
+    2300188: W_02
+    2300190: W_03
+    2300192: W_04
+    2300194: Wheel Pivot_01
+    2300196: Wheel Pivot_02
+    2300198: Wheel Pivot_03
+    2300200: Wheel Pivot_04
+    2300202: Wheel S Pivot_01
+    2300204: Wheel S Pivot_02
+    2300206: Wheel S Pivot_03
+    2300208: Wheel S Pivot_04
+    2300210: Wheel.003
+    2300212: Wheel_01
+    2300214: Wheel_02
+    2300216: Wheel_03
+    2300218: Wheel_04
+    2300220: WheelTOP.L
+    2300222: WheelTOP.R
+    3300000: Arm Cushion
+    3300002: Arm Cushion.001
+    3300004: Bars
+    3300006: BedPlate
+    3300008: Buttons
+    3300010: Buttons.001
+    3300012: Buttons.002
+    3300014: Chair_MD_02
+    3300016: Circle.003
+    3300018: Circle.004
+    3300020: Computer.001
+    3300022: Computer_MD_01
+    3300024: GateB_01
+    3300026: GateHead
+    3300028: GateL_01
+    3300030: GateL_02
+    3300032: GateR_01
+    3300034: GateR_02
+    3300036: HeadBar
+    3300038: Int_Glass
+    3300040: Int_MD_01_Wall_06
+    3300042: Int_Window_01_01
+    3300044: Keyboard_MD_01_01
+    3300046: Lamp
+    3300048: Lamp.001
+    3300050: LampElbow_01
+    3300052: LampElbow_01.001
+    3300054: LampElbow_02
+    3300056: LampElbow_02.001
+    3300058: LampGlass
+    3300060: LampGlass.001
+    3300062: LampHandle
+    3300064: LampHandle.001
+    3300066: LampSwivel_01
+    3300068: LampSwivel_01.001
+    3300070: LampSwivel_02
+    3300072: LampSwivel_02.001
+    3300074: LampSwivel_03
+    3300076: LampSwivel_03.001
+    3300078: LampSwivel_04
+    3300080: LampSwivel_04.001
+    3300082: LeftBar_02
+    3300084: Mat
+    3300086: MedicalBed
+    3300088: MedicalBed_MD_01
+    3300090: MedicalBedBase
+    3300092: MedicalBedBase.002
+    3300094: MedicalBedBase.004
+    3300096: MIR_Bed
+    3300098: MIR_BedLift
+    3300100: MIR_BedSlide
+    3300102: Monitor
+    3300104: Monitor.001
+    3300106: Monitor_MD_01_01
+    3300108: Monitor_MD_02_01
+    3300110: Monitor_MD_03_01
+    3300112: Mouse_MD_01_01
+    3300114: MRI_BedBase
+    3300116: MRI_Buttons
+    3300118: MRI_Display
+    3300120: MRI_MD_01
+    3300122: MRI_Screen
+    3300124: MRI_TransferBed
+    3300126: MRI_Tube
+    3300128: OperatingTable
+    3300130: OperatingTable_ArmRest.L
+    3300132: OperatingTable_ArmRest.R
+    3300134: OperatingTable_Base
+    3300136: OperatingTable_Cushion
+    3300138: OperatingTable_MD_01
+    3300140: OperatingTable_Pivot
+    3300142: OperatingTable_TableBase
+    3300144: OperationLamp_MD_01
+    3300146: Pillow
+    3300148: Plane.001
+    3300150: Plane.002
+    3300152: Plane.006
+    3300154: Plane.009
+    3300156: RightBar_02
+    3300158: Screen.001
+    3300160: Screen.002
+    3300162: Strap
+    3300164: Strap.001
+    3300166: Stretcher Base
+    3300168: Stretcher Guard_Base
+    3300170: Stretcher Guard_L
+    3300172: Stretcher Guard_R
+    3300174: Stretcher Rail
+    3300176: Stretcher_MD_01
+    3300178: Support Bar.Mid
+    3300180: Support Bar.R
+    3300182: SupportBar.L
+    3300184: TableWall_MD_01
+    3300186: W_01
+    3300188: W_02
+    3300190: W_03
+    3300192: W_04
+    3300194: Wheel Pivot_01
+    3300196: Wheel Pivot_02
+    3300198: Wheel Pivot_03
+    3300200: Wheel Pivot_04
+    3300202: Wheel S Pivot_01
+    3300204: Wheel S Pivot_02
+    3300206: Wheel S Pivot_03
+    3300208: Wheel S Pivot_04
+    3300210: Wheel.003
+    3300212: Wheel_01
+    3300214: Wheel_02
+    3300216: Wheel_03
+    3300218: Wheel_04
+    3300220: WheelTOP.L
+    3300222: WheelTOP.R
+    4300000: Stretcher_MD_01
+    4300002: Support Bar.Mid
+    4300004: Support Bar.R
+    4300006: Stretcher Base
+    4300008: BedPlate
+    4300010: Mat
+    4300012: Stretcher Guard_R
+    4300014: Stretcher Guard_L
+    4300016: WheelTOP.L
+    4300018: Stretcher Rail
+    4300020: WheelTOP.R
+    4300022: Stretcher Guard_Base
+    4300024: SupportBar.L
+    4300026: Wheel Pivot_04
+    4300028: Wheel_04
+    4300030: Wheel Pivot_03
+    4300032: Wheel_03
+    4300034: Wheel Pivot_01
+    4300036: Wheel_01
+    4300038: Wheel Pivot_02
+    4300040: Wheel_02
+    4300042: MRI_MD_01
+    4300044: MRI_BedBase
+    4300046: MIR_BedLift
+    4300048: MIR_BedSlide
+    4300050: MIR_Bed
+    4300052: MRI_Tube
+    4300054: MRI_Display
+    4300056: MRI_Screen
+    4300058: MRI_Buttons
+    4300060: MRI_TransferBed
+    4300062: OperatingTable_MD_01
+    4300064: OperatingTable_Base
+    4300066: OperatingTable_Pivot
+    4300068: OperatingTable_TableBase
+    4300070: OperatingTable
+    4300072: OperatingTable_ArmRest.L
+    4300074: Arm Cushion.001
+    4300076: OperatingTable_Cushion
+    4300078: OperatingTable_ArmRest.R
+    4300080: Arm Cushion
+    4300082: Strap.001
+    4300084: Strap
+    4300086: OperationLamp_MD_01
+    4300088: LampSwivel_01
+    4300090: LampSwivel_02
+    4300092: LampElbow_01
+    4300094: LampElbow_02
+    4300096: LampSwivel_03
+    4300098: LampSwivel_04
+    4300100: Lamp
+    4300102: LampGlass
+    4300104: LampHandle
+    4300106: LampSwivel_01.001
+    4300108: LampSwivel_02.001
+    4300110: LampElbow_01.001
+    4300112: LampElbow_02.001
+    4300114: LampSwivel_03.001
+    4300116: LampSwivel_04.001
+    4300118: Lamp.001
+    4300120: LampGlass.001
+    4300122: LampHandle.001
+    4300124: MedicalBed_MD_01
+    4300126: Bars
+    4300128: MedicalBedBase
+    4300130: MedicalBed
+    4300132: LeftBar_02
+    4300134: GateL_02
+    4300136: RightBar_02
+    4300138: GateR_02
+    4300140: Plane.009
+    4300142: GateB_01
+    4300144: MedicalBedBase.002
+    4300146: GateL_01
+    4300148: MedicalBedBase.004
+    4300150: GateR_01
+    4300152: HeadBar
+    4300154: GateHead
+    4300156: Wheel S Pivot_02
+    4300158: W_02
+    4300160: Wheel S Pivot_01
+    4300162: W_01
+    4300164: Wheel S Pivot_03
+    4300166: W_03
+    4300168: Wheel S Pivot_04
+    4300170: W_04
+    4300172: Pillow
+    4300174: TableWall_MD_01
+    4300176: Plane.001
+    4300178: Chair_MD_02
+    4300180: Plane.002
+    4300182: Computer_MD_01
+    4300184: Computer.001
+    4300186: Keyboard_MD_01_01
+    4300188: Circle.003
+    4300190: Circle.004
+    4300192: Monitor_MD_01_01
+    4300194: Monitor
+    4300196: Screen.001
+    4300198: Mouse_MD_01_01
+    4300200: Wheel.003
+    4300202: Monitor_MD_03_01
+    4300204: Plane.006
+    4300206: Buttons.001
+    4300208: Buttons.002
+    4300210: Buttons
+    4300212: Int_MD_01_Wall_06
+    4300214: Int_Window_01_01
+    4300216: Int_Glass
+    4300218: Monitor_MD_02_01
+    4300220: Monitor.001
+    4300222: Screen.002
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
